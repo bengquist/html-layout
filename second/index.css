@@ -1,0 +1,66 @@
+.box1 {
+  border: solid 5px black;
+  height: 25vh;
+  width: 98%;
+  margin: 25px auto 25px auto;
+}
+
+.obj1 {
+  background: rgb(211, 24, 211);
+  height: 70%;
+  width: 5%;
+  margin: 60px 0 40px 20px;
+  display: inline-block;
+}
+
+.obj2 {
+  background: green;
+  width: 30%;
+  height: 90%;
+  display: inline-block;
+  margin: 20px 70px 40px 70px;
+}
+
+.obj3 {
+  background: lightblue;
+  height: 90%;
+  width: 220px;
+  display: inline-block;
+  margin: 20px 70px 40px 0px;
+  border-radius: 50%; 
+}
+
+.box2 {
+  border: dotted 5px black;
+  height: 25vh;
+  width: 98%;
+  margin: 25px auto 25px auto;
+}
+
+.obj4 {
+  background: rgb(236, 206, 167);
+  width: 90%;
+  height: 70%;
+  -webkit-box-shadow: 10px 10px 10px black;
+          box-shadow: 10px 10px 10px black;
+  margin: 40px auto;
+}
+
+.box3 {
+  border: solid 1px gray;
+  -webkit-box-shadow: 2px 2px 5px gray;
+          box-shadow: 2px 2px 5px gray;
+  height: 20vh;
+  width: 40%;
+  margin: 0 auto;
+  padding: 120px 0 50px 0;
+}
+
+.hello {
+  font: 3em Times;
+  font-weight: 700;
+  color: darkblue;
+  text-align: center;
+  margin: 0;
+  letter-spacing: 10px;
+}
